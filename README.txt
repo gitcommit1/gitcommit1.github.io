@@ -1,5 +1,5 @@
-## Hello World, fellow developers and new visitors!!                                                                             #nothing important in this corner
-## This is the tale of a developer kid!!                                                                                           #you need to stop reading this
+## Hello World, fellow developers and new visitors!!                                                                         #nothing important in this corner
+## This is the tale of a developer kid!!                                                                                        #you need to stop reading this
 
 
 
