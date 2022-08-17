@@ -9,16 +9,20 @@
 * [About me](#who_am_i)
 
 ## Projects:
-This project is simple Lorem ipsum dolor generator.
+=> metronome
+=> tip_calculator
+=> library_management_system
+=> smart_home_system
+=> web_based_data_modeler
 	
 ## Work Experience:
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
+k> Paycom
+k> Texas State University
+k> TCS
+k> Hexooid
+
 ## About Me
-To run this project, install it locally using npm:
+CS Grad @TXST
 
 ```
 $ cd ../lorem
